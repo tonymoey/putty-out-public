@@ -1,0 +1,1 @@
+ show log system subtype equal auth csv-output equal yes start-time equal 2026/10/19@01:00:00
